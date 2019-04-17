@@ -12,8 +12,14 @@ For this project, I was responsible for the front-end, including React, React Ro
 - Elasticseach DB
 - PostgreSQL
 
-## Screenshots
+## Screenshots: Influencers
 !["Collab Homepage"](https://github.com/kencancode/collab/blob/master/docs/collab-homepage.jpg)
 !["Collab Upload"](https://github.com/kencancode/collab/blob/master/docs/collab-upload.jpg)
 !["Collab Keywords"](https://github.com/kencancode/collab/blob/master/docs/collab-keywords.jpg)
-!["Collab Results"](https://github.com/kencancode/collab/blob/master/docs/collab-results.jpg)
+!["Collab Matches"](https://github.com/kencancode/collab/blob/master/docs/collab-match.jpg)
+!["Collab Portfolio"](https://github.com/kencancode/collab/blob/master/docs/collab-results.jpg)
+!["Collab Requests Sent"](https://github.com/kencancode/collab/blob/master/docs/collab-req.jpg)
+
+
+## Screenshots: Photographers
+!["Collab Accept/Decline"](https://github.com/kencancode/collab/blob/master/docs/collab-pending.jpg)
